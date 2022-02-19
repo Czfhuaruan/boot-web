@@ -16,6 +16,8 @@ public class Students {
     private String username;
     @TableField(exist = false)
     private String pass;
+    @TableField(exist = false)
+    private String pull;
 
 
 
