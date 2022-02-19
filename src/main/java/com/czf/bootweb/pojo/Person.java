@@ -15,6 +15,4 @@ public class Person {
      * 年龄
      */
     int age;
-
-    String haha;
 }
